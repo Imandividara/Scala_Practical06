@@ -19,3 +19,7 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4e81d68
 2024.07.27 17:59:28 INFO  running doctor check
 2024.07.27 17:59:28 INFO  java targets: Scala_Practical06_f4dd477a3a, Scala_Practical06_f4dd477a3a-test
 2024.07.27 17:59:33 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 17:59:36 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.27 17:59:38 INFO  time: indexed workspace in 9.72s
+2024.07.27 17:59:39 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 17:59:41 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
