@@ -11,3 +11,11 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4e81d68
 2024.07.27 17:59:19 INFO  Running BSP server List(C:\Users\HP\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-envs.json, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06)
 2024.07.27 17:59:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
 2024.07.27 17:59:21 INFO  BSP server: Starting compilation server
+2024.07.27 17:59:23 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 17:59:25 INFO  time: Connected to build server in 5.67s
+2024.07.27 17:59:25 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.27 17:59:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 17:59:28 INFO  time: Imported build in 2.54s
+2024.07.27 17:59:28 INFO  running doctor check
+2024.07.27 17:59:28 INFO  java targets: Scala_Practical06_f4dd477a3a, Scala_Practical06_f4dd477a3a-test
+2024.07.27 17:59:33 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
