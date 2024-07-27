@@ -1,0 +1,13 @@
+2024.07.27 17:59:14 INFO  Started: Metals version 1.3.4 in folders 'C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4e81d68f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2d0b2e9a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4e81d68f]
+2024.07.27 17:59:14 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.27 17:59:14 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.27 17:59:19 INFO  Running List(C:\Users\HP\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06)
+2024.07.27 17:59:19 INFO  Attempting to connect to the build server...
+2024.07.27 17:59:19 INFO  Running BSP server List(C:\Users\HP\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-envs.json, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06)
+2024.07.27 17:59:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.27 17:59:21 INFO  BSP server: Starting compilation server
