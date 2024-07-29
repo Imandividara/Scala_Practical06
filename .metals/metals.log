@@ -943,3 +943,83 @@ where:    V is a type variable with constraint <: InventorySystem.Product
 2024.07.27 22:53:09 INFO  Shut down connection with build server.
 2024.07.27 22:53:09 INFO  BSP server: Jul 27, 2024 10:53:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
 2024.07.27 22:53:09 INFO  Exiting server
+2024.07.29 15:57:24 INFO  Started: Metals version 1.3.4 in folders 'C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4112eab6]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1cae7f48]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4112eab6]
+2024.07.29 15:57:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 15:57:26 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 15:57:26 INFO  Attempting to connect to the build server...
+2024.07.29 15:57:26 INFO  Running BSP server List(C:\Users\HP\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.scala-build\ide-envs.json, C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06)
+2024.07.29 15:57:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.29 15:57:29 INFO  BSP server: Starting compilation server
+2024.07.29 15:57:33 INFO  time: Connected to build server in 6.88s
+2024.07.29 15:57:33 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.29 15:57:33 INFO  time: Imported build in 0.16s
+2024.07.29 15:57:34 INFO  running doctor check
+2024.07.29 15:57:34 INFO  java targets: Scala_Practical06_f4dd477a3a, Scala_Practical06_f4dd477a3a-test
+2024.07.29 15:57:42 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 15:57:42 INFO  time: indexed workspace in 8.26s
+2024.07.29 17:22:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 17:22:24 INFO  time: compiled Scala_Practical06_f4dd477a3a in 4.23s
+2024.07.29 18:26:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 18:26:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.49s
+2024.07.29 18:26:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 18:26:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.94s
+Jul 29, 2024 6:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 192
+Jul 29, 2024 6:57:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1432
+Jul 29, 2024 7:10:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1836
+Jul 29, 2024 7:17:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1894
+2024.07.29 19:27:28 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 19:27:29 INFO  no build target found for C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0\q1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 19:27:30 INFO  no build target found for C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0\q1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 19:27:33 INFO  time: code lens generation in 4.57s
+2024.07.29 19:27:33 INFO  Running List(C:\Users\HP\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\HP\AppData\Local\Temp\metals-scala-cli5673503646280446288, --semantic-db-source-root, C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0, C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0\q1[1].scala)
+2024.07.29 19:27:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.29 19:27:35 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.29 19:27:35 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.29 19:27:35 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.29 19:27:37 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.29 19:27:40 INFO  Connected to Scala CLI server v1.3.2
+2024.07.29 19:27:40 INFO  compiling metals-scala-cli5673503646280446288_c3124a56b2-a7cb2b46c4 (1 scala source)
+2024.07.29 19:27:40 INFO  time: compiled metals-scala-cli5673503646280446288_c3124a56b2-a7cb2b46c4 in 0.95s
+2024.07.29 19:27:42 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.29 19:27:42 INFO  time: indexed workspace in 2.45s
+2024.07.29 19:27:43 INFO  Scala CLI started for C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\H39N2PN0\q1[1].scala
+Jul 29, 2024 7:34:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2844
+2024.07.29 19:54:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 19:54:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.69s
+2024.07.29 19:54:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 19:54:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.45s
+2024.07.29 19:55:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 19:55:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.56s
+2024.07.29 19:55:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 19:55:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.57s
+2024.07.29 20:09:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 20:09:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.4s
+2024.07.29 20:09:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 20:09:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.47s
+2024.07.29 20:30:03 INFO  Running List(C:\Users\HP\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\HP\AppData\Local\Temp\metals-scala-cli5673503646280446288, --semantic-db-source-root, C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\0E5FB69P, C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\0E5FB69P\q2[1].scala)
+2024.07.29 20:30:03 INFO  no build target found for C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\0E5FB69P\q2[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 20:30:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\0E5FB69P\.metals\bsp.trace.json or C:\Users\HP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.29 20:30:06 INFO  Connected to Scala CLI server v1.3.2
+2024.07.29 20:30:07 INFO  compiling metals-scala-cli5673503646280446288_ace4dceea1-ba41516579 (1 scala source)
+2024.07.29 20:30:07 INFO  time: compiled metals-scala-cli5673503646280446288_ace4dceea1-ba41516579 in 0.72s
+2024.07.29 20:30:09 INFO  time: indexed workspace in 2.34s
+2024.07.29 20:30:09 INFO  Scala CLI started for C:\Users\HP\AppData\Local\Microsoft\Windows\INetCache\IE\0E5FB69P\q2[1].scala
+2024.07.29 20:36:17 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q2.scala
+2024.07.29 20:36:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 20:36:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 87ms
+2024.07.29 20:36:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.29 20:36:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.4s
+2024.07.29 20:36:37 INFO  Shut down connection with build server.
+2024.07.29 20:36:40 INFO  Shut down connection with build server.
+Jul 29, 2024 8:37:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
