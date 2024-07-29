@@ -23,3 +23,923 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4e81d68
 2024.07.27 17:59:38 INFO  time: indexed workspace in 9.72s
 2024.07.27 17:59:39 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
 2024.07.27 17:59:41 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:00:58 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:00:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:00:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.3s
+2024.07.27 18:01:00 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:01:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.84s
+Jul 27, 2024 6:01:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+2024.07.27 18:01:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.26s
+2024.07.27 18:01:11 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:11 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:01:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 56ms
+2024.07.27 18:01:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:01:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.51s
+2024.07.27 18:01:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:01:43 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:43 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:01:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.39s
+2024.07.27 18:01:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:01:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.35s
+2024.07.27 18:01:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 73ms
+2024.07.27 18:01:58 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:01:58 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:02:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:02:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:02:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 57ms
+2024.07.27 18:02:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:02:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.29s
+2024.07.27 18:02:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 69ms
+2024.07.27 18:02:09 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:11 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:13 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:13 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:13 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 90ms
+2024.07.27 18:02:15 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:15 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 75ms
+2024.07.27 18:02:16 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:17 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:18 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 82ms
+2024.07.27 18:02:18 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:19 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:19 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:20 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:02:21 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:21 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.28s
+2024.07.27 18:02:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:02:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.27s
+2024.07.27 18:03:56 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:03:56 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:04:01 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:01 INFO  time: compiled Scala_Practical06_f4dd477a3a in 65ms
+2024.07.27 18:04:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 54ms
+2024.07.27 18:04:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 80ms
+2024.07.27 18:04:15 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:15 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:04:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 74ms
+2024.07.27 18:04:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:04:22 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:22 INFO  time: compiled Scala_Practical06_f4dd477a3a in 56ms
+2024.07.27 18:04:24 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:24 INFO  time: compiled Scala_Practical06_f4dd477a3a in 60ms
+2024.07.27 18:04:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 71ms
+2024.07.27 18:04:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 86ms
+2024.07.27 18:04:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 77ms
+Jul 27, 2024 6:04:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 746
+2024.07.27 18:04:31 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:31 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:04:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 74ms
+2024.07.27 18:04:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.49s
+2024.07.27 18:04:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:04:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.41s
+2024.07.27 18:05:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.57s
+2024.07.27 18:05:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:05:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:05:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:05:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:05:15 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:15 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:05:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:05:21 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:21 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:05:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:05:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 82ms
+2024.07.27 18:05:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 91ms
+2024.07.27 18:05:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 94ms
+2024.07.27 18:05:47 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:47 INFO  time: compiled Scala_Practical06_f4dd477a3a in 90ms
+2024.07.27 18:05:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 84ms
+2024.07.27 18:05:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:05:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:06:01 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:01 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:06:03 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:03 INFO  time: compiled Scala_Practical06_f4dd477a3a in 95ms
+2024.07.27 18:06:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.33s
+2024.07.27 18:06:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.33s
+2024.07.27 18:06:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.27s
+2024.07.27 18:06:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.28s
+2024.07.27 18:06:33 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:33 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.26s
+2024.07.27 18:06:37 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:37 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 18:06:39 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:39 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:06:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 18:06:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:06:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:46 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:06:51 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:51 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:06:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:06:58 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:06:58 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:07:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:07:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:07:15 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:15 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:07:22 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:22 INFO  time: compiled Scala_Practical06_f4dd477a3a in 80ms
+2024.07.27 18:07:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:07:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:07:31 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:31 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:07:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:07:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.25s
+2024.07.27 18:07:47 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:47 INFO  time: compiled Scala_Practical06_f4dd477a3a in 63ms
+Jul 27, 2024 6:07:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1506
+2024.07.27 18:07:50 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:50 INFO  time: compiled Scala_Practical06_f4dd477a3a in 79ms
+2024.07.27 18:07:53 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:53 INFO  time: compiled Scala_Practical06_f4dd477a3a in 66ms
+2024.07.27 18:07:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:07:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 65ms
+2024.07.27 18:08:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:08:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:19:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:19:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 71ms
+2024.07.27 18:19:36 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:36 INFO  time: compiled Scala_Practical06_f4dd477a3a in 77ms
+2024.07.27 18:19:39 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:39 INFO  time: compiled Scala_Practical06_f4dd477a3a in 75ms
+2024.07.27 18:19:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:19:43 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:43 INFO  time: compiled Scala_Practical06_f4dd477a3a in 83ms
+2024.07.27 18:19:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:19:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:19:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 64ms
+2024.07.27 18:20:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 62ms
+2024.07.27 18:20:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 72ms
+2024.07.27 18:20:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 18:20:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:20:23 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:23 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:20:24 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:24 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:20:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:20:31 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:31 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:20:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 77ms
+2024.07.27 18:20:33 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:33 INFO  time: compiled Scala_Practical06_f4dd477a3a in 66ms
+2024.07.27 18:20:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:20:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 73ms
+2024.07.27 18:20:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:20:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:20:47 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:47 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:20:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 80ms
+2024.07.27 18:20:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:20:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:21:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:21:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 79ms
+2024.07.27 18:21:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:21:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:21:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:21:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:22:30 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:30 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.25s
+2024.07.27 18:22:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:22:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:22:46 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:46 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:22:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 65ms
+2024.07.27 18:22:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 86ms
+2024.07.27 18:22:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 64ms
+2024.07.27 18:22:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:22:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 56ms
+2024.07.27 18:23:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:23:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:23:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 64ms
+2024.07.27 18:23:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 58ms
+2024.07.27 18:23:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 82ms
+2024.07.27 18:23:21 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:21 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:23:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:23:31 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:31 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:23:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.26s
+2024.07.27 18:23:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:23:39 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:39 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:23:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:23:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:23:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:23:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.16s
+2024.07.27 18:23:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:23:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:24:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:24:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:24:13 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:24:13 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:24:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:24:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:29:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:29:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:29:23 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:23 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:29:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:29:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 18:29:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:29:46 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:29:46 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:30:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:30:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:30:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 93ms
+2024.07.27 18:30:30 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:30 INFO  time: compiled Scala_Practical06_f4dd477a3a in 59ms
+2024.07.27 18:30:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:30:39 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:39 INFO  time: compiled Scala_Practical06_f4dd477a3a in 84ms
+2024.07.27 18:30:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:30:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 59ms
+2024.07.27 18:31:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 74ms
+Jul 27, 2024 6:31:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2732
+2024.07.27 18:31:23 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:23 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:31:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 66ms
+2024.07.27 18:31:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:31:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:31:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:31:37 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:37 INFO  time: compiled Scala_Practical06_f4dd477a3a in 79ms
+2024.07.27 18:31:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 83ms
+2024.07.27 18:31:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 73ms
+2024.07.27 18:31:47 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:47 INFO  time: compiled Scala_Practical06_f4dd477a3a in 65ms
+2024.07.27 18:31:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 63ms
+2024.07.27 18:31:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:31:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:32:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 75ms
+2024.07.27 18:32:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:32:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 84ms
+2024.07.27 18:32:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:32:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 62ms
+2024.07.27 18:32:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:32:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 18:32:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:32:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.25s
+2024.07.27 18:32:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 75ms
+2024.07.27 18:32:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:32:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:32:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:32:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:32:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:33:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 18:33:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:33:11 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:11 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:33:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:33:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:33:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 86ms
+2024.07.27 18:33:24 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:24 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:33:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:33:43 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:43 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:33:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 18:33:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 77ms
+2024.07.27 18:33:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:33:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:33:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+Jul 27, 2024 6:33:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3311
+2024.07.27 18:34:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 56ms
+2024.07.27 18:34:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 56ms
+2024.07.27 18:34:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:34:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 58ms
+2024.07.27 18:34:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 85ms
+2024.07.27 18:34:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 58ms
+2024.07.27 18:34:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:34:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 93ms
+2024.07.27 18:34:24 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:24 INFO  time: compiled Scala_Practical06_f4dd477a3a in 85ms
+2024.07.27 18:34:36 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:36 INFO  time: compiled Scala_Practical06_f4dd477a3a in 64ms
+2024.07.27 18:34:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 57ms
+2024.07.27 18:34:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:34:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 63ms
+2024.07.27 18:34:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:34:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:35:01 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:01 INFO  time: compiled Scala_Practical06_f4dd477a3a in 89ms
+2024.07.27 18:35:03 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:03 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:35:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:35:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 89ms
+2024.07.27 18:35:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:35:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:35:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 59ms
+2024.07.27 18:35:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 88ms
+2024.07.27 18:35:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:35:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 62ms
+2024.07.27 18:35:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:35:37 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:37 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:35:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:35:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:35:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:35:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 83ms
+2024.07.27 18:35:50 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:50 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:35:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:35:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:36:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.25s
+2024.07.27 18:36:15 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:15 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:36:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 82ms
+2024.07.27 18:36:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 69ms
+2024.07.27 18:36:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 95ms
+2024.07.27 18:36:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:36:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 97ms
+2024.07.27 18:36:51 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:51 INFO  time: compiled Scala_Practical06_f4dd477a3a in 93ms
+2024.07.27 18:36:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:36:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:37:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:37:01 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:01 INFO  time: compiled Scala_Practical06_f4dd477a3a in 91ms
+2024.07.27 18:37:03 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:03 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:37:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.14s
+2024.07.27 18:37:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:37:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 89ms
+2024.07.27 18:37:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:37:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 73ms
+2024.07.27 18:37:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:37:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 83ms
+2024.07.27 18:37:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 65ms
+2024.07.27 18:37:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 72ms
+2024.07.27 18:37:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:37:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 97ms
+2024.07.27 18:37:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 18:37:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:37:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:37:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.25s
+2024.07.27 18:38:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:38:17 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:17 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:38:18 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:18 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:19 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:19 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 61ms
+2024.07.27 18:38:20 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:21 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:21 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:22 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:22 INFO  time: compiled Scala_Practical06_f4dd477a3a in 98ms
+2024.07.27 18:38:23 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:23 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:24 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:24 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 60ms
+2024.07.27 18:38:25 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:26 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:27 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 86ms
+2024.07.27 18:38:28 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:29 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:30 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:30 INFO  time: compiled Scala_Practical06_f4dd477a3a in 62ms
+2024.07.27 18:38:30 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:53 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:53 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 71ms
+2024.07.27 18:38:55 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:55 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:56 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:56 INFO  time: compiled Scala_Practical06_f4dd477a3a in 69ms
+2024.07.27 18:38:56 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:58 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:38:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:38:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:38:59 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:00 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:01 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:01 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:39:03 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 66ms
+2024.07.27 18:39:04 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:05 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:05 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:05 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:06 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:06 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:39:07 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:08 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.11s
+2024.07.27 18:39:09 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:10 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:11 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:11 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+Jul 27, 2024 6:39:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4686
+2024.07.27 18:39:11 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:13 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:13 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 18:39:14 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:20 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:21 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:21 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:39:21 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:28 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:29 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:29 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:30 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:30 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:30 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:39:31 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:31 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:31 INFO  time: compiled Scala_Practical06_f4dd477a3a in 63ms
+2024.07.27 18:39:32 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:33 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 66ms
+2024.07.27 18:39:35 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 61ms
+2024.07.27 18:39:36 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:37 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:38 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:39 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:39 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 95ms
+2024.07.27 18:39:40 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 63ms
+2024.07.27 18:39:42 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:42 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:43 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:43 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:44 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:45 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:45 INFO  time: compiled Scala_Practical06_f4dd477a3a in 69ms
+2024.07.27 18:39:46 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:49 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:50 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:50 INFO  time: compiled Scala_Practical06_f4dd477a3a in 78ms
+2024.07.27 18:39:50 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:51 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:51 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:51 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:52 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:52 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:53 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:39:53 INFO  time: compiled Scala_Practical06_f4dd477a3a in 73ms
+2024.07.27 18:39:54 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:58 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:39:59 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 75ms
+2024.07.27 18:40:01 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:03 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:04 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+Jul 27, 2024 6:40:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4954
+2024.07.27 18:40:04 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:40:05 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:06 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 64ms
+2024.07.27 18:40:08 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:08 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:08 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 97ms
+2024.07.27 18:40:10 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:10 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:11 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:11 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:40:11 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:12 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:13 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:13 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:40:13 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.12s
+2024.07.27 18:40:15 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:16 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 82ms
+2024.07.27 18:40:17 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:18 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:19 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:40:20 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:20 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:21 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:21 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:40:22 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:40:22 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:40:23 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:32 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:33 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:33 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:42:33 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:35 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:36 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:36 INFO  time: compiled Scala_Practical06_f4dd477a3a in 89ms
+2024.07.27 18:42:37 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:39 WARN  Could not load snapshot text for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q1.scala
+2024.07.27 18:42:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:42:43 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:43 INFO  time: compiled Scala_Practical06_f4dd477a3a in 81ms
+2024.07.27 18:42:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:42:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:42:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:42:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:43:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 18:43:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 95ms
+2024.07.27 18:43:05 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:05 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 18:43:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 67ms
+2024.07.27 18:43:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 18:43:17 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:17 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:43:22 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:22 INFO  time: compiled Scala_Practical06_f4dd477a3a in 71ms
+2024.07.27 18:43:25 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:25 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:43:27 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:27 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 18:43:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.16s
+2024.07.27 18:43:30 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:43:30 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.14s
+2024.07.27 18:46:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:46:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 18:46:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:46:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 85ms
+2024.07.27 18:46:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:46:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 18:46:55 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:46:55 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 18:47:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:47:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 76ms
+2024.07.27 18:47:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:47:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 92ms
+2024.07.27 18:47:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:47:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 70ms
+2024.07.27 18:47:15 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:47:15 INFO  time: compiled Scala_Practical06_f4dd477a3a in 62ms
+2024.07.27 18:47:17 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:47:17 INFO  time: compiled Scala_Practical06_f4dd477a3a in 96ms
+2024.07.27 18:48:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:48:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 18:48:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:48:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.48s
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:32:19: stale bloop error: value id is not a member of Any
+          Product(prod1.id, prod1.name, prod1.quantity + prod2.quantity, math.max(prod1.price, prod2.price))
+                  ^^^^^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:32:29: stale bloop error: value name is not a member of Any
+          Product(prod1.id, prod1.name, prod1.quantity + prod2.quantity, math.max(prod1.price, prod2.price))
+                            ^^^^^^^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:32:41: stale bloop error: value quantity is not a member of Any
+          Product(prod1.id, prod1.name, prod1.quantity + prod2.quantity, math.max(prod1.price, prod2.price))
+                                        ^^^^^^^^^^^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:32:83: stale bloop error: value price is not a member of Any
+          Product(prod1.id, prod1.name, prod1.quantity + prod2.quantity, math.max(prod1.price, prod2.price))
+                                                                                  ^^^^^^^^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:32:96: stale bloop error: value price is not a member of Any
+          Product(prod1.id, prod1.name, prod1.quantity + prod2.quantity, math.max(prod1.price, prod2.price))
+                                                                                               ^^^^^^^^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:33:28: stale bloop error: Values of types object None and (Option[InventorySystem.Product], Option[InventorySystem.Product]) cannot be compared with == or !=
+        case (Some(prod1), None) => prod1
+                           ^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:34:15: stale bloop error: Values of types object None and Int cannot be compared with == or !=
+        case (None, Some(prod2)) => prod2
+              ^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:35:15: stale bloop error: Values of types object None and Int cannot be compared with == or !=
+        case (None, None) => throw new RuntimeException("This should never happen")
+              ^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:35:21: stale bloop error: Values of types object None and (Option[InventorySystem.Product], Option[InventorySystem.Product]) cannot be compared with == or !=
+        case (None, None) => throw new RuntimeException("This should never happen")
+                    ^^^^
+2024.07.27 18:49:41 INFO  file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala:37:12: stale bloop error: Cannot prove that Any <:< (Int, V).
+
+where:    V is a type variable with constraint <: InventorySystem.Product
+
+    }.toMap
+           ^
+2024.07.27 18:49:42 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:49:42 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:49:42 INFO  time: compiled Scala_Practical06_f4dd477a3a in 68ms
+2024.07.27 18:49:44 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:49:44 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.5s
+2024.07.27 18:50:02 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:50:03 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:50:03 INFO  time: compiled Scala_Practical06_f4dd477a3a in 54ms
+2024.07.27 18:50:03 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 18:50:04 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 18:50:04 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.36s
+2024.07.27 19:02:57 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:02:57 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.3s
+2024.07.27 19:03:02 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:02 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.28s
+2024.07.27 19:03:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 19:03:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 19:03:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 19:03:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 19:03:34 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:34 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 19:03:38 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:38 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 19:03:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 19:03:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:03:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 19:32:16 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 19:32:17 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:32:17 INFO  time: compiled Scala_Practical06_f4dd477a3a in 47ms
+2024.07.27 19:32:17 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 19:32:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:32:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.29s
+2024.07.27 19:41:07 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 19:41:08 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:41:08 INFO  time: compiled Scala_Practical06_f4dd477a3a in 48ms
+2024.07.27 19:41:08 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q1.scala
+2024.07.27 19:41:19 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:41:19 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.28s
+2024.07.27 19:43:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:43:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 19:43:54 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:43:54 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 19:44:35 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:44:35 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 19:44:40 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:44:40 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 19:44:52 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:44:52 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 19:45:00 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:45:00 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 19:45:09 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:45:09 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 19:45:14 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:45:14 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 19:45:20 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:45:20 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 19:47:01 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:01 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.24s
+2024.07.27 19:47:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 19:47:10 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:10 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 19:47:12 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:12 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 19:47:18 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:18 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 19:47:26 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:26 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 19:47:29 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:29 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.18s
+2024.07.27 19:47:33 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:33 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.17s
+2024.07.27 19:47:36 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:47:36 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 19:48:48 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:48:48 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.22s
+2024.07.27 19:48:59 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:48:59 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 19:49:07 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:49:07 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.2s
+2024.07.27 19:49:28 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:49:28 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.21s
+2024.07.27 19:49:41 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:49:41 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.23s
+2024.07.27 19:49:50 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 19:49:50 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.19s
+2024.07.27 22:43:48 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.27 22:43:48 INFO  no build target found for C:\Users\HP\OneDrive\Documents\Scala_Project06\Scala_Practical06\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.27 22:43:49 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q2.scala
+2024.07.27 22:43:49 INFO  running doctor check
+2024.07.27 22:43:49 INFO  java targets: Scala_Practical06_f4dd477a3a, Scala_Practical06_f4dd477a3a-test
+2024.07.27 22:43:49 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 22:43:49 INFO  time: compiled Scala_Practical06_f4dd477a3a in 83ms
+2024.07.27 22:43:50 INFO  time: indexed workspace in 1.15s
+2024.07.27 22:43:50 WARN  Could not find semantic tokens for: file:///C:/Users/HP/OneDrive/Documents/Scala_Project06/Scala_Practical06/q2.scala
+2024.07.27 22:43:53 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 22:43:53 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.43s
+2024.07.27 22:47:32 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 22:47:32 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.1s
+2024.07.27 22:48:16 INFO  compiling scala_practical06_f4dd477a3a (1 scala source)
+2024.07.27 22:48:16 INFO  time: compiled Scala_Practical06_f4dd477a3a in 0.15s
+2024.07.27 22:53:09 INFO  Shutting down server
+2024.07.27 22:53:09 INFO  shutting down Metals
+2024.07.27 22:53:09 INFO  Shut down connection with build server.
+2024.07.27 22:53:09 INFO  BSP server: Jul 27, 2024 10:53:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.07.27 22:53:09 INFO  Exiting server
